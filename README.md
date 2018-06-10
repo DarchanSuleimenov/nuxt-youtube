@@ -1,6 +1,7 @@
 # nuxt-youtube
 
 > Демонстрационное приложение, использующее Nuxt, Vuex, Vuetify, Youtube Data API v3
+>> увидеть приложение в работе можно [здесь](https://darchansuleimenov.github.io/nuxt-youtube/)
 
 ## Установка
 
