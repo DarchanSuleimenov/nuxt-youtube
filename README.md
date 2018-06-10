@@ -1,22 +1,16 @@
-# proj04
+# nuxt-youtube
 
-> My riveting Nuxt.js project
+> Демонстрационное приложение, использующее Nuxt, Vuex, Vuetify, Youtube Data API v3
 
-## Build Setup
+## Установка
 
 ``` bash
-# install dependencies
-$ yarn install
+# установите зависимости:
+$ npm install
 
-# serve with hot reload at localhost:3000
-$ yarn run dev
+# режим разработки с горячей перезагрузкой (после запуска перейдите по адресу localhost:3000):
+$ npm run dev
 
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
+# генерация статического проекта:
+$ npm run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
