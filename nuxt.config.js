@@ -7,6 +7,10 @@ module.exports = {
     youtubeApiKey: 'AIzaSyByGQXF36RKNV2lO0R2lU5jcHFnqBwEHbk'
   },
 
+  router: {
+    base: '/nuxt-youtube/'
+  },
+
   mode: 'universal',
 
   /*
